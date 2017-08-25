@@ -1,6 +1,6 @@
 # Georgian-Budget-Files
 
-This repository contains all of the files necessary for running the budget data uploader, which creates a structured database of information about the Georgian Budget. This uploader can be found in the [JumpStartGeorgia/Georgian-Budget-API repo](https://github.com/JumpStartGeorgia/Georgian-Budget-API/).
+This repository contains all of the files necessary for running the budget data uploader, which creates a structured database of information about the Georgian Budget. This uploader can be found in the [Georgian-Budget-API repo](https://github.com/ForSetGeorgia/Georgian-Budget-API).
 
 The files presented here are split into two groups:
 1. Those received from the Georgian government, either via their website or Freedom of Information requests. The format of these files has been modified to work with the uploader (but the data has not been modified, of course)
@@ -119,7 +119,7 @@ If you decide that these programs are indeed the same and should be merged, then
 
 ## Update priority associations
 
-Please refer to the [Georgian Budget - Priority Mapping repo](https://github.com/JumpStartGeorgia/Georgian-Budget-Priority-Mapping) to learn how programs/agencies are assigned to priorities.
+Please refer to the [Georgian Budget - Priority Mapping repo](https://github.com/ForSetGeorgia/Georgian-Budget-Priority-Mapping) to learn how programs/agencies are assigned to priorities.
 
 ## Check that data has been correctly uploaded
 
